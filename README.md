@@ -6,7 +6,7 @@ Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
 ## Project Source Codes:
 * [Hangman Game]()
   * python semantics & syntax
-* [Breakout Game]()
+* [Breakout Game](https://github.com/jeff91734/MyStanCodeProjects/blob/main/S101_projects/break_out_game/breakout.py)
   * animation & game designing\
 * [Name Popularity Searching System]()
   * data structure
