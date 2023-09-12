@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of stanCode
 Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)
 
 ## Project Source Codes:
-* [Hangman Game]()
+* [Hangman Game](https://github.com/jeff91734/MyStanCodeProjects/blob/main/S101_projects/hangman_game/hangman.py)
   * python semantics & syntax
 * [Breakout Game](https://github.com/jeff91734/MyStanCodeProjects/blob/main/S101_projects/break_out_game/breakout.py)
   * animation & game designing\
