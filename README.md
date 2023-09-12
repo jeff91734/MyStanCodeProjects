@@ -8,7 +8,7 @@ Watch my [DEMO VIDEOS](https://www.youtube.com/playlist?app=desktop&list=PL6FWNw
   * python semantics & syntax
 * [Breakout Game](https://github.com/jeff91734/MyStanCodeProjects/blob/main/S101_projects/break_out_game/breakout.py)
   * animation & game designing\
-* [Name Popularity Searching System]()
+* [Name Popularity Searching System](https://github.com/jeff91734/MyStanCodeProjects/tree/main/S101_projects/name_searching_system)
   * data structure
 * [Boggle Game Solver](https://github.com/jeff91734/MyStanCodeProjects/blob/main/S101_projects/boggle_game/boggle.py)
   * recursive functions
